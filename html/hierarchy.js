@@ -38,7 +38,6 @@ var hierarchy =
     [ "NetTopologySuite.Algorithm.CentroidLine", "class_net_topology_suite_1_1_algorithm_1_1_centroid_line.html", null ],
     [ "NetTopologySuite.Algorithm.CentroidPoint", "class_net_topology_suite_1_1_algorithm_1_1_centroid_point.html", null ],
     [ "NetTopologySuite.Algorithm.CGAlgorithms3D", "class_net_topology_suite_1_1_algorithm_1_1_c_g_algorithms3_d.html", null ],
-    [ "RTools_NTS.Util.CharBuffer", "class_r_tools___n_t_s_1_1_util_1_1_char_buffer.html", null ],
     [ "NetTopologySuite.Utilities.CollectionUtil", "class_net_topology_suite_1_1_utilities_1_1_collection_util.html", null ],
     [ "NetTopologySuite.Precision.CommonBits", "class_net_topology_suite_1_1_precision_1_1_common_bits.html", null ],
     [ "NetTopologySuite.Precision.CommonBitsOp", "class_net_topology_suite_1_1_precision_1_1_common_bits_op.html", null ],
@@ -93,11 +92,7 @@ var hierarchy =
     [ "Exception", null, [
       [ "NetTopologySuite.Geometries.Utilities.NoninvertibleTransformationException", "class_net_topology_suite_1_1_geometries_1_1_utilities_1_1_noninvertible_transformation_exception.html", null ],
       [ "NetTopologySuite.Triangulate.ConstraintEnforcementException", "class_net_topology_suite_1_1_triangulate_1_1_constraint_enforcement_exception.html", null ],
-      [ "NetTopologySuite.Triangulate.QuadEdge.LocateFailureException", "class_net_topology_suite_1_1_triangulate_1_1_quad_edge_1_1_locate_failure_exception.html", null ],
-      [ "RTools_NTS.Util.StreamTokenizerUntermException", "class_r_tools___n_t_s_1_1_util_1_1_stream_tokenizer_unterm_exception.html", [
-        [ "RTools_NTS.Util.StreamTokenizerUntermCommentException", "class_r_tools___n_t_s_1_1_util_1_1_stream_tokenizer_unterm_comment_exception.html", null ],
-        [ "RTools_NTS.Util.StreamTokenizerUntermQuoteException", "class_r_tools___n_t_s_1_1_util_1_1_stream_tokenizer_unterm_quote_exception.html", null ]
-      ] ]
+      [ "NetTopologySuite.Triangulate.QuadEdge.LocateFailureException", "class_net_topology_suite_1_1_triangulate_1_1_quad_edge_1_1_locate_failure_exception.html", null ]
     ] ],
     [ "NetTopologySuite.LinearReferencing.ExtractLineByLocation", "class_net_topology_suite_1_1_linear_referencing_1_1_extract_line_by_location.html", null ],
     [ "NetTopologySuite.Operation.Distance.FacetSequence", "class_net_topology_suite_1_1_operation_1_1_distance_1_1_facet_sequence.html", null ],
@@ -316,8 +311,7 @@ var hierarchy =
     [ "IEnumerable", null, [
       [ "GeoAPI.Geometries.IGeometryCollection", "interface_geo_a_p_i_1_1_geometries_1_1_i_geometry_collection.html", null ],
       [ "NetTopologySuite.Geometries.GeometryCollectionEnumerator", "class_net_topology_suite_1_1_geometries_1_1_geometry_collection_enumerator.html", null ],
-      [ "NetTopologySuite.Noding.SegmentNodeList", "class_net_topology_suite_1_1_noding_1_1_segment_node_list.html", null ],
-      [ "RTools_NTS.Util.StreamTokenizer", "class_r_tools___n_t_s_1_1_util_1_1_stream_tokenizer.html", null ]
+      [ "NetTopologySuite.Noding.SegmentNodeList", "class_net_topology_suite_1_1_noding_1_1_segment_node_list.html", null ]
     ] ],
     [ "IEnumerator", null, [
       [ "NetTopologySuite.Geometries.GeometryCollectionEnumerator", "class_net_topology_suite_1_1_geometries_1_1_geometry_collection_enumerator.html", null ],
@@ -565,10 +559,9 @@ var hierarchy =
     [ "NetTopologySuite.LinearReferencing.LocationIndexOfLine", "class_net_topology_suite_1_1_linear_referencing_1_1_location_index_of_line.html", null ],
     [ "NetTopologySuite.LinearReferencing.LocationIndexOfPoint", "class_net_topology_suite_1_1_linear_referencing_1_1_location_index_of_point.html", null ],
     [ "GeoAPI.Geometries.LocationUtility", "class_geo_a_p_i_1_1_geometries_1_1_location_utility.html", null ],
-    [ "RTools_NTS.Util.Logger", "class_r_tools___n_t_s_1_1_util_1_1_logger.html", null ],
     [ "NetTopologySuite.Mathematics.MathUtil", "class_net_topology_suite_1_1_mathematics_1_1_math_util.html", null ],
-    [ "NetTopologySuite.Mathematics.Matrix", "class_net_topology_suite_1_1_mathematics_1_1_matrix.html", null ],
     [ "NetTopologySuite.Geometries.Utilities.Matrix", "class_net_topology_suite_1_1_geometries_1_1_utilities_1_1_matrix.html", null ],
+    [ "NetTopologySuite.Mathematics.Matrix", "class_net_topology_suite_1_1_mathematics_1_1_matrix.html", null ],
     [ "NetTopologySuite.Noding.Snapround.MCIndexPointSnapper", "class_net_topology_suite_1_1_noding_1_1_snapround_1_1_m_c_index_point_snapper.html", null ],
     [ "NetTopologySuite.Utilities.Memory", "class_net_topology_suite_1_1_utilities_1_1_memory.html", null ],
     [ "NetTopologySuite.Algorithm.MinimumBoundingCircle", "class_net_topology_suite_1_1_algorithm_1_1_minimum_bounding_circle.html", null ],
@@ -607,23 +600,22 @@ var hierarchy =
     [ "NetTopologySuite.Operation.Buffer.OffsetCurveVertexList", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_offset_curve_vertex_list.html", null ],
     [ "NetTopologySuite.Operation.Overlay.Validate.OffsetPointGenerator", "class_net_topology_suite_1_1_operation_1_1_overlay_1_1_validate_1_1_offset_point_generator.html", null ],
     [ "NetTopologySuite.Operation.Buffer.OldOffsetCurveBuilder", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_old_offset_curve_builder.html", null ],
-    [ "RTools_NTS.Util.Opts", "class_r_tools___n_t_s_1_1_util_1_1_opts.html", null ],
     [ "NetTopologySuite.Operation.Overlay.Validate.OverlayResultValidator", "class_net_topology_suite_1_1_operation_1_1_overlay_1_1_validate_1_1_overlay_result_validator.html", null ],
     [ "GeoAPI.CoordinateSystems.Parameter", "class_geo_a_p_i_1_1_coordinate_systems_1_1_parameter.html", null ],
+    [ "NetTopologySuite.GeometriesGraph.PlanarGraph", "class_net_topology_suite_1_1_geometries_graph_1_1_planar_graph.html", [
+      [ "NetTopologySuite.GeometriesGraph.GeometryGraph", "class_net_topology_suite_1_1_geometries_graph_1_1_geometry_graph.html", null ]
+    ] ],
     [ "NetTopologySuite.Planargraph.PlanarGraph", "class_net_topology_suite_1_1_planargraph_1_1_planar_graph.html", [
       [ "NetTopologySuite.Operation.Linemerge.LineMergeGraph", "class_net_topology_suite_1_1_operation_1_1_linemerge_1_1_line_merge_graph.html", null ],
       [ "NetTopologySuite.Operation.Polygonize.PolygonizeGraph", "class_net_topology_suite_1_1_operation_1_1_polygonize_1_1_polygonize_graph.html", null ]
-    ] ],
-    [ "NetTopologySuite.GeometriesGraph.PlanarGraph", "class_net_topology_suite_1_1_geometries_graph_1_1_planar_graph.html", [
-      [ "NetTopologySuite.GeometriesGraph.GeometryGraph", "class_net_topology_suite_1_1_geometries_graph_1_1_geometry_graph.html", null ]
     ] ],
     [ "NetTopologySuite.Operation.Distance3D.PlanarPolygon3D", "class_net_topology_suite_1_1_operation_1_1_distance3_d_1_1_planar_polygon3_d.html", null ],
     [ "NetTopologySuite.Mathematics.Plane3D", "class_net_topology_suite_1_1_mathematics_1_1_plane3_d.html", null ],
     [ "NetTopologySuite.Operation.Overlay.PointBuilder", "class_net_topology_suite_1_1_operation_1_1_overlay_1_1_point_builder.html", null ],
     [ "NetTopologySuite.Operation.Union.PointGeometryUnion", "class_net_topology_suite_1_1_operation_1_1_union_1_1_point_geometry_union.html", null ],
     [ "NetTopologySuite.Algorithm.PointLocator", "class_net_topology_suite_1_1_algorithm_1_1_point_locator.html", null ],
-    [ "NetTopologySuite.Algorithm.Distance.PointPairDistance", "class_net_topology_suite_1_1_algorithm_1_1_distance_1_1_point_pair_distance.html", null ],
     [ "NetTopologySuite.Operation.Buffer.Validate.PointPairDistance", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_point_pair_distance.html", null ],
+    [ "NetTopologySuite.Algorithm.Distance.PointPairDistance", "class_net_topology_suite_1_1_algorithm_1_1_distance_1_1_point_pair_distance.html", null ],
     [ "NetTopologySuite.Operation.Overlay.PolygonBuilder", "class_net_topology_suite_1_1_operation_1_1_overlay_1_1_polygon_builder.html", null ],
     [ "NetTopologySuite.Operation.Polygonize.Polygonizer", "class_net_topology_suite_1_1_operation_1_1_polygonize_1_1_polygonizer.html", null ],
     [ "NetTopologySuite.GeometriesGraph.Position", "class_net_topology_suite_1_1_geometries_graph_1_1_position.html", null ],
@@ -660,7 +652,6 @@ var hierarchy =
     [ "NetTopologySuite.Operation.Overlay.Snap.SnapOverlayOp", "class_net_topology_suite_1_1_operation_1_1_overlay_1_1_snap_1_1_snap_overlay_op.html", null ],
     [ "NetTopologySuite.Index.IntervalRTree.SortedPackedIntervalRTree< T >", "class_net_topology_suite_1_1_index_1_1_interval_r_tree_1_1_sorted_packed_interval_r_tree_3_01_t_01_4.html", null ],
     [ "NetTopologySuite.Triangulate.SplitSegment", "class_net_topology_suite_1_1_triangulate_1_1_split_segment.html", null ],
-    [ "RTools_NTS.Util.StreamTokenizerSettings", "class_r_tools___n_t_s_1_1_util_1_1_stream_tokenizer_settings.html", null ],
     [ "NetTopologySuite.Planargraph.Subgraph", "class_net_topology_suite_1_1_planargraph_1_1_subgraph.html", null ],
     [ "NetTopologySuite.Index.Sweepline.SweepLineIndex", "class_net_topology_suite_1_1_index_1_1_sweepline_1_1_sweep_line_index.html", null ],
     [ "NetTopologySuite.Index.Sweepline.SweepLineInterval", "class_net_topology_suite_1_1_index_1_1_sweepline_1_1_sweep_line_interval.html", null ],
@@ -669,19 +660,6 @@ var hierarchy =
     [ "NetTopologySuite.Simplify.TaggedLinesSimplifier", "class_net_topology_suite_1_1_simplify_1_1_tagged_lines_simplifier.html", null ],
     [ "NetTopologySuite.Simplify.TaggedLineString", "class_net_topology_suite_1_1_simplify_1_1_tagged_line_string.html", null ],
     [ "NetTopologySuite.Simplify.TaggedLineStringSimplifier", "class_net_topology_suite_1_1_simplify_1_1_tagged_line_string_simplifier.html", null ],
-    [ "RTools_NTS.Util.Token", "class_r_tools___n_t_s_1_1_util_1_1_token.html", [
-      [ "RTools_NTS.Util.CharToken", "class_r_tools___n_t_s_1_1_util_1_1_char_token.html", null ],
-      [ "RTools_NTS.Util.EofToken", "class_r_tools___n_t_s_1_1_util_1_1_eof_token.html", null ],
-      [ "RTools_NTS.Util.EolToken", "class_r_tools___n_t_s_1_1_util_1_1_eol_token.html", null ],
-      [ "RTools_NTS.Util.FloatToken", "class_r_tools___n_t_s_1_1_util_1_1_float_token.html", null ],
-      [ "RTools_NTS.Util.IntToken", "class_r_tools___n_t_s_1_1_util_1_1_int_token.html", null ],
-      [ "RTools_NTS.Util.StringToken", "class_r_tools___n_t_s_1_1_util_1_1_string_token.html", [
-        [ "RTools_NTS.Util.CommentToken", "class_r_tools___n_t_s_1_1_util_1_1_comment_token.html", null ],
-        [ "RTools_NTS.Util.QuoteToken", "class_r_tools___n_t_s_1_1_util_1_1_quote_token.html", null ],
-        [ "RTools_NTS.Util.WhitespaceToken", "class_r_tools___n_t_s_1_1_util_1_1_whitespace_token.html", null ],
-        [ "RTools_NTS.Util.WordToken", "class_r_tools___n_t_s_1_1_util_1_1_word_token.html", null ]
-      ] ]
-    ] ],
     [ "NetTopologySuite.GeometriesGraph.TopologyLocation", "class_net_topology_suite_1_1_geometries_graph_1_1_topology_location.html", null ],
     [ "NetTopologySuite.Simplify.TopologyPreservingSimplifier", "class_net_topology_suite_1_1_simplify_1_1_topology_preserving_simplifier.html", null ],
     [ "NetTopologySuite.Operation.Valid.TopologyValidationError", "class_net_topology_suite_1_1_operation_1_1_valid_1_1_topology_validation_error.html", null ],

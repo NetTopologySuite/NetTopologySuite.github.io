@@ -14,14 +14,12 @@ var searchData=
   ['edgeintersectionlist',['EdgeIntersectionList',['../class_net_topology_suite_1_1_geometries_graph_1_1_edge_intersection_list.html',1,'NetTopologySuite::GeometriesGraph']]],
   ['edgelist',['EdgeList',['../class_net_topology_suite_1_1_geometries_graph_1_1_edge_list.html',1,'NetTopologySuite::GeometriesGraph']]],
   ['edgenodingvalidator',['EdgeNodingValidator',['../class_net_topology_suite_1_1_geometries_graph_1_1_edge_noding_validator.html',1,'NetTopologySuite::GeometriesGraph']]],
-  ['edgering',['EdgeRing',['../class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html',1,'NetTopologySuite::GeometriesGraph']]],
   ['edgering',['EdgeRing',['../class_net_topology_suite_1_1_operation_1_1_polygonize_1_1_edge_ring.html',1,'NetTopologySuite::Operation::Polygonize']]],
+  ['edgering',['EdgeRing',['../class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html',1,'NetTopologySuite::GeometriesGraph']]],
   ['edgesetintersector',['EdgeSetIntersector',['../class_net_topology_suite_1_1_geometries_graph_1_1_index_1_1_edge_set_intersector.html',1,'NetTopologySuite::GeometriesGraph::Index']]],
   ['edgesetnoder',['EdgeSetNoder',['../class_net_topology_suite_1_1_operation_1_1_overlay_1_1_edge_set_noder.html',1,'NetTopologySuite::Operation::Overlay']]],
   ['edgestring',['EdgeString',['../class_net_topology_suite_1_1_operation_1_1_linemerge_1_1_edge_string.html',1,'NetTopologySuite::Operation::Linemerge']]],
   ['enhancedprecisionop',['EnhancedPrecisionOp',['../class_net_topology_suite_1_1_precision_1_1_enhanced_precision_op.html',1,'NetTopologySuite::Precision']]],
   ['envelope',['Envelope',['../class_geo_a_p_i_1_1_geometries_1_1_envelope.html',1,'GeoAPI::Geometries']]],
-  ['eoftoken',['EofToken',['../class_r_tools___n_t_s_1_1_util_1_1_eof_token.html',1,'RTools_NTS::Util']]],
-  ['eoltoken',['EolToken',['../class_r_tools___n_t_s_1_1_util_1_1_eol_token.html',1,'RTools_NTS::Util']]],
   ['extractlinebylocation',['ExtractLineByLocation',['../class_net_topology_suite_1_1_linear_referencing_1_1_extract_line_by_location.html',1,'NetTopologySuite::LinearReferencing']]]
 ];

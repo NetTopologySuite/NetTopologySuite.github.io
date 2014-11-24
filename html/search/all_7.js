@@ -38,7 +38,6 @@ var searchData=
   ['headcs',['HeadCS',['../interface_geo_a_p_i_1_1_coordinate_systems_1_1_i_compound_coordinate_system.html#aced84771dd44d08c75b9b7acae3855d3',1,'GeoAPI::CoordinateSystems::ICompoundCoordinateSystem']]],
   ['height',['Height',['../class_net_topology_suite_1_1_utilities_1_1_geometric_shape_factory.html#a35b059f44187cc0b655b3d89c737c5e2',1,'NetTopologySuite.Utilities.GeometricShapeFactory.Height()'],['../class_geo_a_p_i_1_1_geometries_1_1_envelope.html#ac73268c005133b411263c47d83f5d1b6',1,'GeoAPI.Geometries.Envelope.Height()'],['../interface_geo_a_p_i_1_1_geometries_1_1_i_envelope.html#a3aa54b05a563460746be6f3d2816f754',1,'GeoAPI.Geometries.IEnvelope.Height()']]],
   ['hexconverter',['HexConverter',['../class_net_topology_suite_1_1_utilities_1_1_hex_converter.html',1,'NetTopologySuite::Utilities']]],
-  ['hexdigit',['HexDigit',['../namespace_r_tools___n_t_s_1_1_util.html#af8dc43c6cfa084cef631f011f38aa591ab672c8374ab3616e1d5b4a542789a1d1',1,'RTools_NTS::Util']]],
   ['hextobytes',['HexToBytes',['../class_net_topology_suite_1_1_i_o_1_1_w_k_b_reader.html#a6eb8d91db648debb19a2f8fb79907eb8',1,'NetTopologySuite::IO::WKBReader']]],
   ['holeoutsideshell',['HoleOutsideShell',['../namespace_net_topology_suite_1_1_operation_1_1_valid.html#aa9bf8c0ac192ce5ae5f79f4243d29d94af2b888a40a292c88d3f4b935d0315df0',1,'NetTopologySuite::Operation::Valid']]],
   ['holes',['Holes',['../class_net_topology_suite_1_1_geometries_1_1_polygon.html#acd19fc15256abf7456c8ebb744b5c595',1,'NetTopologySuite::Geometries::Polygon']]],
@@ -46,6 +45,6 @@ var searchData=
   ['horizontaldatum',['HorizontalDatum',['../interface_geo_a_p_i_1_1_coordinate_systems_1_1_i_geocentric_coordinate_system.html#a86a633d69cb31e7b6caed42822e53d36',1,'GeoAPI.CoordinateSystems.IGeocentricCoordinateSystem.HorizontalDatum()'],['../interface_geo_a_p_i_1_1_coordinate_systems_1_1_i_horizontal_coordinate_system.html#a0e1d16dc856275f8f89a85d8449f3c6d',1,'GeoAPI.CoordinateSystems.IHorizontalCoordinateSystem.HorizontalDatum()']]],
   ['hotpixel',['HotPixel',['../class_net_topology_suite_1_1_noding_1_1_snapround_1_1_hot_pixel.html',1,'NetTopologySuite::Noding::Snapround']]],
   ['hotpixel',['HotPixel',['../class_net_topology_suite_1_1_noding_1_1_snapround_1_1_hot_pixel.html#ac15ebdcbff5d729dbca7aefb9e19962a',1,'NetTopologySuite::Noding::Snapround::HotPixel']]],
-  ['hotpixelsnapaction',['HotPixelSnapAction',['../class_net_topology_suite_1_1_noding_1_1_snapround_1_1_m_c_index_point_snapper_1_1_hot_pixel_snap_action.html#a473e3d59a991efaa05ceeb8ae5607fab',1,'NetTopologySuite::Noding::Snapround::MCIndexPointSnapper::HotPixelSnapAction']]],
-  ['hotpixelsnapaction',['HotPixelSnapAction',['../class_net_topology_suite_1_1_noding_1_1_snapround_1_1_m_c_index_point_snapper_1_1_hot_pixel_snap_action.html',1,'NetTopologySuite::Noding::Snapround::MCIndexPointSnapper']]]
+  ['hotpixelsnapaction',['HotPixelSnapAction',['../class_net_topology_suite_1_1_noding_1_1_snapround_1_1_m_c_index_point_snapper_1_1_hot_pixel_snap_action.html',1,'NetTopologySuite::Noding::Snapround::MCIndexPointSnapper']]],
+  ['hotpixelsnapaction',['HotPixelSnapAction',['../class_net_topology_suite_1_1_noding_1_1_snapround_1_1_m_c_index_point_snapper_1_1_hot_pixel_snap_action.html#a473e3d59a991efaa05ceeb8ae5607fab',1,'NetTopologySuite::Noding::Snapround::MCIndexPointSnapper::HotPixelSnapAction']]]
 ];

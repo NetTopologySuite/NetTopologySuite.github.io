@@ -5,6 +5,5 @@ var searchData=
   ['hd_5fmax',['HD_Max',['../namespace_geo_a_p_i_1_1_coordinate_systems.html#ab64896213e293ca0d7c00e6c1742babda65e7aa4b6c88a4f6bd0d55f28f2a6eff',1,'GeoAPI::CoordinateSystems']]],
   ['hd_5fmin',['HD_Min',['../namespace_geo_a_p_i_1_1_coordinate_systems.html#ab64896213e293ca0d7c00e6c1742babda5a687fc2e4d9e4b4dc3049336061346d',1,'GeoAPI::CoordinateSystems']]],
   ['hd_5fother',['HD_Other',['../namespace_geo_a_p_i_1_1_coordinate_systems.html#ab64896213e293ca0d7c00e6c1742babdaf31a8700feacb8c7f8ffbd2c526150a6',1,'GeoAPI::CoordinateSystems']]],
-  ['hexdigit',['HexDigit',['../namespace_r_tools___n_t_s_1_1_util.html#af8dc43c6cfa084cef631f011f38aa591ab672c8374ab3616e1d5b4a542789a1d1',1,'RTools_NTS::Util']]],
   ['holeoutsideshell',['HoleOutsideShell',['../namespace_net_topology_suite_1_1_operation_1_1_valid.html#aa9bf8c0ac192ce5ae5f79f4243d29d94af2b888a40a292c88d3f4b935d0315df0',1,'NetTopologySuite::Operation::Valid']]]
 ];

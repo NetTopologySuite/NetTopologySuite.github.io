@@ -1,8 +1,5 @@
 var NAVTREEINDEX17 =
 {
-"struct_net_topology_suite_1_1_mathematics_1_1_d_d.html#a2b992023e8711f27bbcf24b0ec8005fa":[1,0,1,11,0,15],
-"struct_net_topology_suite_1_1_mathematics_1_1_d_d.html#a2f2bebb2a630c4f016f45cf40df53fdf":[1,0,1,11,0,36],
-"struct_net_topology_suite_1_1_mathematics_1_1_d_d.html#a4cf377d99b32eeea91887c8e823d4a1a":[1,0,1,11,0,32],
 "struct_net_topology_suite_1_1_mathematics_1_1_d_d.html#a59391a1c086110b391da394028bcb55f":[1,0,1,11,0,27],
 "struct_net_topology_suite_1_1_mathematics_1_1_d_d.html#a60c554cd87130508b92df7d084db95c8":[1,0,1,11,0,7],
 "struct_net_topology_suite_1_1_mathematics_1_1_d_d.html#a61a1c09320ffbaa4ff5a7420070f9535":[1,0,1,11,0,33],

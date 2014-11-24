@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['verbositylevel',['VerbosityLevel',['../namespace_r_tools___n_t_s_1_1_util.html#a2091a7416c617eb8d7b33233860a0b93',1,'RTools_NTS::Util']]]
+  ['wkbgeometrytypes',['WKBGeometryTypes',['../namespace_net_topology_suite_1_1_i_o.html#a6661baf481dd16762af5a667e5fbd73d',1,'NetTopologySuite::IO']]]
 ];

@@ -33,6 +33,5 @@ var searchData=
   ['locationindexofline',['LocationIndexOfLine',['../class_net_topology_suite_1_1_linear_referencing_1_1_location_index_of_line.html#a88444b84d68d2f0d0c560185109ab017',1,'NetTopologySuite::LinearReferencing::LocationIndexOfLine']]],
   ['locationindexofpoint',['LocationIndexOfPoint',['../class_net_topology_suite_1_1_linear_referencing_1_1_location_index_of_point.html#a6e124ceb7d79e9c2ba521d3f52ead5ec',1,'NetTopologySuite::LinearReferencing::LocationIndexOfPoint']]],
   ['log10',['Log10',['../class_net_topology_suite_1_1_mathematics_1_1_math_util.html#a1b64cb288db520c9241804eb1b14291f',1,'NetTopologySuite::Mathematics::MathUtil']]],
-  ['logger',['Logger',['../class_r_tools___n_t_s_1_1_util_1_1_logger.html#a6bb19d99d6e24c87e363efbd10c9229f',1,'RTools_NTS.Util.Logger.Logger()'],['../class_r_tools___n_t_s_1_1_util_1_1_logger.html#a16775fd1ca91c255eef334d823665162',1,'RTools_NTS.Util.Logger.Logger(string name)']]],
   ['longestsidelength',['LongestSideLength',['../class_net_topology_suite_1_1_geometries_1_1_triangle.html#a82c5f8a69098ef8ec7e3277739e49a0d',1,'NetTopologySuite.Geometries.Triangle.LongestSideLength(Coordinate a, Coordinate b, Coordinate c)'],['../class_net_topology_suite_1_1_geometries_1_1_triangle.html#a4b5c6e2928721ff88a1b84657dbefb8e',1,'NetTopologySuite.Geometries.Triangle.LongestSideLength()']]]
 ];

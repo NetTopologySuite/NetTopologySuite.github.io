@@ -1,7 +1,6 @@
 var searchData=
 [
   ['nan',['NaN',['../struct_net_topology_suite_1_1_mathematics_1_1_d_d.html#a7072fa69f40d909ecca99dd845ba766c',1,'NetTopologySuite::Mathematics::DD']]],
-  ['nchars',['NChars',['../class_r_tools___n_t_s_1_1_util_1_1_stream_tokenizer.html#a5cf6249bff7d0429bbbaa4bd4d530eac',1,'RTools_NTS::Util::StreamTokenizer']]],
   ['ne',['NE',['../class_net_topology_suite_1_1_geometries_graph_1_1_quadrant_op.html#adcc400fd2c11353a745267666c38ee04',1,'NetTopologySuite::GeometriesGraph::QuadrantOp']]],
   ['nodemap',['nodeMap',['../class_net_topology_suite_1_1_planargraph_1_1_planar_graph.html#a56b1cd6b2f7ddf64f797520cc85ac446',1,'NetTopologySuite.Planargraph.PlanarGraph.nodeMap()'],['../class_net_topology_suite_1_1_planargraph_1_1_subgraph.html#a0498ee2d3d05e1cdfa06860d73c74e4f',1,'NetTopologySuite.Planargraph.Subgraph.nodeMap()']]],
   ['nointersection',['NoIntersection',['../class_net_topology_suite_1_1_algorithm_1_1_line_intersector.html#a643c579f6b6c198760ccd2d5e779292c',1,'NetTopologySuite::Algorithm::LineIntersector']]],

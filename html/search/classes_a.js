@@ -32,6 +32,5 @@ var searchData=
   ['locationindexedline',['LocationIndexedLine',['../class_net_topology_suite_1_1_linear_referencing_1_1_location_indexed_line.html',1,'NetTopologySuite::LinearReferencing']]],
   ['locationindexofline',['LocationIndexOfLine',['../class_net_topology_suite_1_1_linear_referencing_1_1_location_index_of_line.html',1,'NetTopologySuite::LinearReferencing']]],
   ['locationindexofpoint',['LocationIndexOfPoint',['../class_net_topology_suite_1_1_linear_referencing_1_1_location_index_of_point.html',1,'NetTopologySuite::LinearReferencing']]],
-  ['locationutility',['LocationUtility',['../class_geo_a_p_i_1_1_geometries_1_1_location_utility.html',1,'GeoAPI::Geometries']]],
-  ['logger',['Logger',['../class_r_tools___n_t_s_1_1_util_1_1_logger.html',1,'RTools_NTS::Util']]]
+  ['locationutility',['LocationUtility',['../class_geo_a_p_i_1_1_geometries_1_1_location_utility.html',1,'GeoAPI::Geometries']]]
 ];
