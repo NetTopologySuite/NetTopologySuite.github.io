@@ -5,4 +5,4 @@
 - [NHibernate.Spatial](https://github.com/nhibernate)
 
 ## Documentation
-- [API  Documentation](http://nettopologysuite.github.com/html/index.html) 
+- [API  Documentation](http://nettopologysuite.github.io/html/index.html) 
