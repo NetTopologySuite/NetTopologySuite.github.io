@@ -1,4 +1,4 @@
-# NTS Toplogy Suite
+# NTS Topology Suite
 
 ## Usage
 - [SharpMap](http://sharpmap.codeplex.com)
